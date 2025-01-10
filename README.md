@@ -2,7 +2,16 @@
  Kicad 8
 
 # Purpose
-Use for 
+Use for testing ESP32 C3 as replacement for ESP 8266 in ESP Home config
+
+| ESP Designation  | Pin | Use |
+| ------------- | ------------- | ------------- |
+| U201 ESP32 C3 |  |   |
+| U301 ESP32 C3 |  |   |
+| U401 ESP32 C3 |  |   |
+| U501 ESP32 C3 |  |   |
+| U601 ESP32 C3 |  |   |
+| U701 ESP8266 |  |   |
 
 # Status - Preliminary mounted
 ## Initial 
