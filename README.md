@@ -14,7 +14,7 @@ Use for testing ESP32 C3 as replacement for ESP 8266 in ESP Home config
 | U701 ESP8266 | D1 | SCL AM2320 |
 | U701 ESP8266 | D2 | SDA AM2320 |
 | U701 ESP8266 | D3 / GPIO0| LED |
-| U701 ESP8266 | D4 | 18B20 |
+| U701 ESP8266 | D4 / GPIO2| 18B20 / Onboard LED|
 
 # Status - Preliminary mounted
 ## Initial 
