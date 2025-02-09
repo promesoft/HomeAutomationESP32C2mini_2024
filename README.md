@@ -61,8 +61,11 @@ Use for testing ESP32 C3 as replacement for ESP 8266 in ESP Home config
 ### Sub 2
 
 # Pictures
+![](ESP32C3_U502_U602_Board.jpg)
+![]()
+![]()
+![]()
 ![](HomeAutomationESP32C2mini_2024.jpg)
-)
 
 
 # Inspiration
